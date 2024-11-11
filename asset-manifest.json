@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Assignment-Quiz-App-in-React/static/css/main.aac79762.css",
+    "main.js": "/Assignment-Quiz-App-in-React/static/js/main.348db39e.js",
+    "static/js/453.fc01f49c.chunk.js": "/Assignment-Quiz-App-in-React/static/js/453.fc01f49c.chunk.js",
+    "index.html": "/Assignment-Quiz-App-in-React/index.html",
+    "main.aac79762.css.map": "/Assignment-Quiz-App-in-React/static/css/main.aac79762.css.map",
+    "main.348db39e.js.map": "/Assignment-Quiz-App-in-React/static/js/main.348db39e.js.map",
+    "453.fc01f49c.chunk.js.map": "/Assignment-Quiz-App-in-React/static/js/453.fc01f49c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aac79762.css",
+    "static/js/main.348db39e.js"
+  ]
+}
